@@ -1,0 +1,46 @@
+{
+      "variants": [
+        {
+          "id": 50,
+          "marque": "Ford",
+          "quantity": 150,
+          "image": "../assets/carProducts/1.jpg",
+          "prixParJour": 50,
+        },
+        {
+          "id": 51,
+          "marque": "Pegeout",
+          "quantity": 3,
+          "image": "../assets/carProducts/2.jpg",
+          "prixParJour": 150,
+        },
+        {
+          "id": 52,
+          "marque": "octavia",
+          "quantity": 50,
+          "image": "../assets/carProducts/3.jpg",
+          "prixParJour": 250,
+        },
+        {
+          "id": 53,
+          "marque": "Renault",
+          "quantity": 0,
+          "image": "../assets/carProducts/4.jpg",
+          "prixParJour": 100,
+        },
+        {
+          "id": 54,
+          "marque": "megan",
+          "quantity": 10,
+          "image": "../assets/carProducts/5.jpg",
+          "prixParJour": 70,
+        },
+        {
+          "id": 55,
+          "marque": "ford",
+          "quantity": 4,
+          "image": "../assets/carProducts/6.jpg",
+          "prixParJour": 90,
+        }
+      ]
+    }
